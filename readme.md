@@ -1,5 +1,5 @@
 # To do list
 
-Projeto para aprendizado de fundamentos de `HTML`, `Javascript` e `CSS`.
+Projeto para prática de fundamentos de `HTML`, `Javascript` e `CSS`.
 
 ![todolist](/image.png)
